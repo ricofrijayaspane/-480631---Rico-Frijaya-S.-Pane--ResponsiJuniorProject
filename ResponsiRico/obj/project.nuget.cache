@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "MT1AqtCrEQn3rp2YQS+iyyBIcSj4CwzW54RBPpXiWMpQ1sdqikPOQ16nGozWMaeFn5B0SFwcOd8PhXWdXm/kZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rico Frijaya S. Pane\\source\\repos\\ResponsiRico\\ResponsiRico\\ResponsiRico.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rico Frijaya S. Pane\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Rico Frijaya S. Pane\\.nuget\\packages\\npgsql\\7.0.0\\npgsql.7.0.0.nupkg.sha512",
+    "C:\\Users\\Rico Frijaya S. Pane\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Rico Frijaya S. Pane\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Rico Frijaya S. Pane\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
