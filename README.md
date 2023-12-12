@@ -1,1 +1,1 @@
-# -480631---Rico-Frijaya-S.-Pane--ResponsiJuniorProject
+# [480631]-[Rico Frijaya S. Pane]-ResponsiJuniorProject
